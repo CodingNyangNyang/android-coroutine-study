@@ -40,5 +40,9 @@
 - [5기](5기/) 모집 중
     - [참가 신청 링크](https://forms.gle/ugavmqQQLx5x5Gdd9)
 
+## 기타
+### 조세영님의 온라인 강의
+- [코틀린 코루틴 완전 정복](https://inf.run/Y5tdT)
+
 ### 카카오톡 오픈프로필
 https://open.kakao.com/o/slONfVwg

@@ -1,5 +1,9 @@
 # 박명범 코틀린 코루틴 스터디 정리 노트
 
+## 0주차
+
+[0주차](https://gist.github.com/mangbaam/4c6c5abced621253e3e8f1a18802675b)
+
 ## 1주차
 
 [1주차](https://gist.github.com/mangbaam/c5e2b0dbf59b1778014777e5e0c16d45)

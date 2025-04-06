@@ -18,7 +18,7 @@
 
 ## 4주차
 
-4주차
+[4주차](https://gist.github.com/mangbaam/7a635cdaa55d72abd6d528221447bb54)
 
 ## 5주차
 

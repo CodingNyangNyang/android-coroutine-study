@@ -42,4 +42,4 @@
 
 - 12장: 코루틴 단위 테스트(381~442)
 
-6주차
+[6주차](https://gist.github.com/mangbaam/57d0fd0e470b6beebf93913e2bd559b8)

@@ -22,7 +22,7 @@
 
 ## 5주차
 
-5주차
+[5주차](https://gist.github.com/mangbaam/fad2e81ef1dd2e30aaccfedbf928c9a3)
 
 ## 6주차
 

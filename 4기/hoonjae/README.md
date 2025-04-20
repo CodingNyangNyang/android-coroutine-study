@@ -24,3 +24,7 @@
 
   [Ch10.코루틴의 이해, Ch11.코루틴 심화](https://hoon92.notion.site/5-Ch10-1ce539a6a40f80ef86a2e1ac0f17ac5a?pvs=4)
 
+- 6주차
+
+  [Ch12.코루틴 단위 테스트](https://hoon92.notion.site/6-Ch12-1d9539a6a40f800ca9edec9182b185ab?pvs=4)
+

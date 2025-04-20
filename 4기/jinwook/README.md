@@ -8,4 +8,4 @@
 
 [5주차](https://alike-pump-ae3.notion.site/5-1cea2599283e80fdbfd0e13f3ef1a46b?pvs=4)
 
-6주차
+[6주차](https://alike-pump-ae3.notion.site/6-1d5a2599283e809ea7b6fe2151f8ab8f?pvs=4)

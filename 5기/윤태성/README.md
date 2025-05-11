@@ -8,6 +8,8 @@
 
 ### 2주차
 
+[5장, 6장 - async와 Deferred, CoroutineContext](https://elite-rest-b2c.notion.site/ch05-async-Deferred-ch06-CoroutineContext-1ebc5805075280708822c9de769cadc3?pvs=4)
+
 ### 3주차
 
 ### 4주차

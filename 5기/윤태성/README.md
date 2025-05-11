@@ -4,9 +4,11 @@
 
 ### 1주차
 
-[3장, 4장 - CoroutineDispatcher, 코루틴 빌더와 Job](https://elite-rest-b2c.notion.site/1e9c58050752801bb0bec59692014aea?pvs=4)
+[3장, 4장 - CoroutineDispatcher, 코루틴 빌더와 Job](https://elite-rest-b2c.notion.site/Ch03-CoroutineDispatcher-Ch04-Job-1e4c58050752801ba42bf1b4a4fb9497?pvs=4)
 
 ### 2주차
+
+[5장, 6장 - async와 Deferred, CoroutineContext](https://elite-rest-b2c.notion.site/ch05-async-Deferred-ch06-CoroutineContext-1ebc5805075280708822c9de769cadc3?pvs=4)
 
 ### 3주차
 

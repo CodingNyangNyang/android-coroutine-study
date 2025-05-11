@@ -7,6 +7,8 @@
 4장 : [코루틴 빌더와 Job](https://lumbar-beryl-964.notion.site/4-Job-113-148-1e9b82abc59d801ea09bdf55f379f4d4?pvs=4)
 
 ### 2주차
+5장 : [async와 Deferred](https://lumbar-beryl-964.notion.site/5-async-Deferred-149-172-1d2b82abc59d80c1ac09f6907d00766a) <br>
+6장 : [CoroutineContext](https://lumbar-beryl-964.notion.site/6-CoroutineContext-173-192-1e9b82abc59d8033af6ee75eaba1d475)
 
 ### 3주차
 

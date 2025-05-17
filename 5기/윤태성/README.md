@@ -12,6 +12,8 @@
 
 ### 3주차
 
+[7장 - 구조화된 동시성](https://elite-rest-b2c.notion.site/ch07-1f0c58050752807ca264f3af9833af41?pvs=4)
+
 ### 4주차
 
 ### 5주차

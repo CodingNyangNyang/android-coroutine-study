@@ -9,6 +9,7 @@
 - [5장: async와 Deferred](https://velog.io/@seojh5939/2%EC%A3%BC%EC%B0%A8-Async%EC%99%80-Deferred)
 - [6장: CoroutineContext](https://velog.io/@seojh5939/2%EC%A3%BC%EC%B0%A8-CoroutineContext)
 ### 3주차
+- [7장: 구조화된 동시성](https://velog.io/@seojh5939/3주차-구조화된-동시성)
 
 ### 4주차
 

@@ -17,6 +17,8 @@ https://www.notion.so/5-async-Deferred-1ec603edf121803cb4d7f8492625ffdd?pvs=4
 https://www.notion.so/6-CoroutineContext-1ef603edf12180d9a1cbef55b7a2ccc3?pvs=4
 
 ### 3주차
+[7장]
+https://www.notion.so/7-1f1603edf12180c09c67c849ed1ddf9c?pvs=4
 
 ### 4주차
 

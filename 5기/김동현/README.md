@@ -11,6 +11,7 @@
 6장 : [CoroutineContext](https://lumbar-beryl-964.notion.site/6-CoroutineContext-173-192-1e9b82abc59d8033af6ee75eaba1d475)
 
 ### 3주차
+7장 : [구조화된 동시성](https://lumbar-beryl-964.notion.site/7-193-256-1d2b82abc59d809f80efe39950acca49)
 
 ### 4주차
 

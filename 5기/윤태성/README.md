@@ -16,6 +16,9 @@
 
 ### 4주차
 
+[8장 - 예외처리](https://elite-rest-b2c.notion.site/ch08-1fec580507528066bad8e0bd9c4c4411?pvs=74)
+[9장 - 일시중단함수](https://elite-rest-b2c.notion.site/ch09-203c58050752804891a8c5162c2c3e17)
+
 ### 5주차
 
 ### 6주차

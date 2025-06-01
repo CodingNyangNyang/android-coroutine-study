@@ -21,6 +21,11 @@ https://www.notion.so/6-CoroutineContext-1ef603edf12180d9a1cbef55b7a2ccc3?pvs=4
 https://www.notion.so/7-1f1603edf12180c09c67c849ed1ddf9c?pvs=4
 
 ### 4주차
+[8장]
+https://www.notion.so/8-1ff603edf12180078139ec4e831d9aa7?source=copy_link
+
+[9장]
+https://www.notion.so/9-203603edf12180f2b73afc8680798f29?source=copy_link
 
 ### 5주차
 

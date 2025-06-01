@@ -17,7 +17,10 @@ https://www.notion.so/6-CoroutineContext-1f08f7ab096080aba44ec37685512b13?pvs=4
 ### 7장
 https://www.notion.so/7-1f68f7ab09608082a159e3c0de8e3a0a?pvs=4
 ### 4주차
-
+### 8장
+https://www.notion.so/8-2028f7ab09608034a8e7f1e33ffd2a82?source=copy_link
+#### 9장
+https://www.notion.so/9-2048f7ab0960801596a2f785ceba151c?source=copy_link
 ### 5주차
 
 ### 6주차

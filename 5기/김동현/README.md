@@ -14,6 +14,8 @@
 7장 : [구조화된 동시성](https://lumbar-beryl-964.notion.site/7-193-256-1d2b82abc59d809f80efe39950acca49)
 
 ### 4주차
+8장 : [8장: 예외 처리](https://lumbar-beryl-964.notion.site/8-257-300-1d2b82abc59d80729b53fac966be3e59?source=copy_link)
+9장 : [일시 중단 함수](https://lumbar-beryl-964.notion.site/9-301-316-1e9b82abc59d801dbbb9f6b37d0f730f?source=copy_link)
 
 ### 5주차
 

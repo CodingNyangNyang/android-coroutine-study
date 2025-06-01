@@ -14,6 +14,8 @@
 - [7장) 구조화된 동시성](https://pastoral-bangle-282.notion.site/7-1f7181161b13806f86c4c324e6987bf1)
 
 ### 4주차
+- [8장) 예외 처리](https://pastoral-bangle-282.notion.site/8-204181161b1380748b52ed5ab0e5706b)
+- [9장) 일시 중단 함수](https://pastoral-bangle-282.notion.site/9-204181161b138022893bf096bccd2849)
 
 ### 5주차
 

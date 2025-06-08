@@ -18,5 +18,7 @@
 - [9장) 일시 중단 함수](https://pastoral-bangle-282.notion.site/9-204181161b138022893bf096bccd2849)
 
 ### 5주차
+- [10장) 코루틴의 이해](https://pastoral-bangle-282.notion.site/10-20b181161b1380f39f9de61b482c1188)
+- [11장) 코루틴 심화](https://pastoral-bangle-282.notion.site/11-20b181161b13807ea0c8ff724bdc7c2d)
 
 ### 6주차

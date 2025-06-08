@@ -28,5 +28,10 @@ https://www.notion.so/8-1ff603edf12180078139ec4e831d9aa7?source=copy_link
 https://www.notion.so/9-203603edf12180f2b73afc8680798f29?source=copy_link
 
 ### 5주차
+[10장]
+https://www.notion.so/10-208603edf12180e29703d26a28fcd095?source=copy_link
+
+[11장]
+https://www.notion.so/11-20c603edf12180cb9528fde2f572da9f?source=copy_link
 
 ### 6주차

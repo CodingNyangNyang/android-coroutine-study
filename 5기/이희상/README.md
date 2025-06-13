@@ -35,3 +35,5 @@ https://www.notion.so/10-208603edf12180e29703d26a28fcd095?source=copy_link
 https://www.notion.so/11-20c603edf12180cb9528fde2f572da9f?source=copy_link
 
 ### 6주차
+[12장]
+https://www.notion.so/12-20d603edf1218051b43df9b1aa1e7dd2?source=copy_link

@@ -26,3 +26,5 @@
 [11장 - 코루틴 심화](https://elite-rest-b2c.notion.site/ch11-20ac580507528096a08ccd0ef0f7e182)
 
 ### 6주차
+
+[12장 - 코루틴 유닛 테스트](https://elite-rest-b2c.notion.site/ch12-210c5805075280c0bb97f4c5cbc84f68)

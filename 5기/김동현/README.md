@@ -22,3 +22,4 @@
 11장 : [코루틴의 심화](https://lumbar-beryl-964.notion.site/11-337-380-1e9b82abc59d805088cfd53ac0592144?source=copy_link)
  
 ### 6주차
+12장 : [코루틴 단위 테스트](https://lumbar-beryl-964.notion.site/12-381-442-1d2b82abc59d809f8944e80921faa7ec?source=copy_link)

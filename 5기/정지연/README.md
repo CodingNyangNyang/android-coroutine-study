@@ -22,3 +22,4 @@
 - [11장) 코루틴 심화](https://pastoral-bangle-282.notion.site/11-20b181161b13807ea0c8ff724bdc7c2d)
 
 ### 6주차
+- [12장) 코루틴 단위 테스트](https://pastoral-bangle-282.notion.site/12-213181161b13802dbbdceb57b88b7dec?pvs=74)
